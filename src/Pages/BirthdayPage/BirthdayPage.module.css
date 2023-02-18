@@ -1,0 +1,26 @@
+.mainWrapper{
+    border: 3px solid blue;
+    width: 99vw;
+    height: 99vh;
+    position: relative;
+    text-align: center;
+    
+}
+.secWrapper{
+    border: 2px solid ;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    /* width: 60vw;
+    height: 99vh; */
+    flex-direction: column;
+}
+.Content{
+    position: relative;
+    display: flex;
+    color: #a8eb12;
+    flex-direction: column;
+
+
+   
+}
